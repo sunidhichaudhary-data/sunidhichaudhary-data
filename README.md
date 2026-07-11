@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Sunidhi 👋
 
-<!--
-**sunidhichaudhary-data/sunidhichaudhary-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with experience in
 
-Here are some ideas to get you started:
+• SQL
+• Python
+• Excel
+• Power BI
+• Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving business problems using data.
+
+Currently working on Data Analytics projects involving:
+
+- Sales Analysis
+- Customer Segmentation
+- Dashboard Development
+- SQL Case Studies
+
+Certifications
+
+✔ Microsoft AZ-900
+✔ Microsoft DP-900
