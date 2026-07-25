@@ -24,6 +24,13 @@
 - Machine Learning Fundamentals
 
 ---
+# 👩‍💻 Career Objective
+
+I am a **Data Analyst with 3+ years of professional experience** in IT Operations and Business Analytics, passionate about transforming raw data into actionable business insights.
+
+My expertise lies in **SQL, Power BI, Python, Excel, Azure, and Business Intelligence**, where I enjoy solving business problems through data analysis, dashboard development, KPI reporting, and storytelling.
+
+I continuously build end-to-end analytics projects that demonstrate real-world business scenarios while expanding my expertise in Azure and modern analytics technologies.
 
 ## 🛠 Tech Stack
 
@@ -63,42 +70,25 @@ MS Project
 SharePoint
 
 ---
-
 # 📂 Featured Projects
 
-## 📊 HR Attrition Analysis Dashboard
+## 📊 Business Intelligence Dashboards
 
-Interactive Power BI dashboard analysing workforce trends, employee attrition, salary distribution, and retention KPIs.
-
----
-
-## 💰 Bank Loan Analytics
-
-Advanced SQL project analysing lending performance, borrower behaviour, funded amounts, repayments, and financial KPIs.
-
----
-
-## 🛠 Work Order Analysis Dashboard
-
-Power BI dashboard analysing work order trends, technician performance, completion rates, and operational efficiency.
+| Project | Tools |
+|----------|------|
+| HR Attrition Analysis Dashboard | Power BI, DAX |
+| Work Order Analysis Dashboard | Power BI |
+| Bank Customer Spending Dashboard | Power BI |
+| Subscription Cohort Analysis Dashboard | Excel |
 
 ---
 
-## 🎬 Netflix Database Management System
+## 🗄 SQL Analytics Projects
 
-Normalized relational database with advanced SQL analytics for subscriber behaviour and content performance.
-
----
-
-## 📈 Subscription Cohort Analysis
-
-Interactive Excel dashboard analysing customer acquisition, retention, cancellations, and payment behaviour.
-
----
-
-## 🚲 Bike Sales Analysis Dashboard
-
-Excel dashboard analysing customer demographics, purchasing behaviour, and sales performance.
+| Project | Tools |
+|----------|------|
+| Bank Loan Analysis | MySQL |
+| Netflix Database Management System | MySQL |
 
 ---
 
