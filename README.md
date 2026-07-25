@@ -127,7 +127,7 @@ Excel dashboard analysing customer demographics, purchasing behaviour, and sales
 📧 Email: sundhichaudhary191@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/sunidhi-chaudhary-3131a617a/)](https://www.linkedin.com/in/sunidhi-chaudhary-3131a617a/
+https://www.linkedin.com/in/sunidhi-chaudhary-3131a617a/
 
 🌐 GitHub:
 https://github.com/sunidhichaudhary-data
