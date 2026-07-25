@@ -66,16 +66,6 @@ SharePoint
 
 # 📂 Featured Projects
 
-## 🚀 Operations Analytics Platform
-
-Enterprise Operations Dashboard analysing 135,000+ operational records using SQL, Power BI, Python, and Azure.
-
-**Tech Stack**
-
-SQL • Power BI • Python • Azure
-
----
-
 ## 📊 HR Attrition Analysis Dashboard
 
 Interactive Power BI dashboard analysing workforce trends, employee attrition, salary distribution, and retention KPIs.
