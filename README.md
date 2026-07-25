@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sunidhi Chaudhary</h1>
-
-<h3 align="center">
-Data Analyst | Business Intelligence | SQL | Power BI | Python | Excel
-</h3>
+<h1 align="center">Hi 👋 I'm Sunidhi Chaudhary</h1>
 
 <p align="center">
-Transforming raw data into actionable business insights through analytics, dashboards, and data storytelling.
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Intelligence+Enthusiast;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Data+into+Business+Insights" />
 </p>
 
 ---
@@ -113,20 +109,6 @@ Interactive Excel dashboard analysing customer acquisition, retention, cancellat
 ## 🚲 Bike Sales Analysis Dashboard
 
 Excel dashboard analysing customer demographics, purchasing behaviour, and sales performance.
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sunidhichaudhary-data&show_icons=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunidhichaudhary-data"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhichaudhary-data&layout=compact"/>
-
-</p>
 
 ---
 
